@@ -106,7 +106,7 @@ lib.registerContext({
     },
     {
       title = 'More Abilities Will Unlocked Soon',
-      --description = 'Update to be done by hulk!',
+      description = 'Update to be done by hulk!',
       --menu = 'Update to be done by hulk',
       disabled = true
     },
